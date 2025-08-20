@@ -6,8 +6,9 @@ This repo contains materials and hands-on exercises for Day 3 and Day 4, from th
 
 ![Vision-Transformer](https://github.com/safouaneelg/HSLU-Transformers-in-Vision/blob/main/vit-arch-recap.gif?raw=true)
 
+## Course PDF presentation
 
-The course presentation can be downloaded from (this link)[https://github.com/safouaneelg/HSLU-Transformers-in-Vision/blob/main/DAY%203%20%26%204%20-%20course%20Vision%20Transformers.pdf]
+You can download the PDF file from [this link](/DAY 3 & 4 - course Vision Transformers.pdf)
 
 ## Hands-On Sessions Recap
 
